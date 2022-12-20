@@ -1,0 +1,48 @@
+.navbar{
+    height: 80px;
+    background-color: #38015c;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.navbar_component{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 100%;
+}
+
+.btn-primary{
+    height: 45px;
+    width: 100px;
+    background-color: #2b2765 !important;
+    font-size: 19px !important;
+}
+.btn-primary:hover{
+    background-color: #6957c5 !important;
+}
+.logo{
+    font-size: 30px;
+    color: white;
+}
+.reactauth{
+    background-color: #38015c;
+    color: white;
+    border: 1px solid #38015c;
+    text-decoration: none;
+}
+
+.reactauth:hover {
+    color: rgb(215, 221, 240);
+    transition-duration: 0.2;
+}
+.two_button{
+    width: 220px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+}

@@ -1,0 +1,38 @@
+
+.resetpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.bigtext{
+    font-weight: 600;
+    font-size: 80px;
+    margin-top: 170px;
+    margin-bottom: 80px;
+}
+
+.change{
+    background-color: #38015c;
+    color: white;
+    font-size: 25px;
+    border: 1px solid #38015c;
+    border-radius: 5px;
+    width: 300px;
+    height: 45px;
+}
+.labelbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #38015c;
+    font-size: 24px;
+    width: 450px;
+    margin-bottom: 10px;
+}
+.button_in{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0;
+}
